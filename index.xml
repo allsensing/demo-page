@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>2024-01-25</title>
+    <link>https://quartz.jzhao.xyz/%EC%A3%BC%EA%B0%84%EC%97%85%EB%AC%B4%EB%B3%B4%EA%B3%A0/2024-01-25</link>
+    <guid>https://quartz.jzhao.xyz/%EC%A3%BC%EA%B0%84%EC%97%85%EB%AC%B4%EB%B3%B4%EA%B3%A0/2024-01-25</guid>
+    <description>📚프로젝트 종합 § .</description>
+    <pubDate>Thu, 25 Jan 2024 02:01:10 GMT</pubDate>
+  </item><item>
+    <title>(2024)프로젝트 관리</title>
+    <link>https://quartz.jzhao.xyz/(2024)%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC</link>
+    <guid>https://quartz.jzhao.xyz/(2024)%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC</guid>
+    <description>📚프로젝트 종합 § 📝올센싱 2024 전체 진행 일감 및 상태 § TABLE 과제명, regexreplace(file.tasks.text, &quot;((([📅⏳🛫⏫🔼🔽].*|\&lt;.*)\n*$))&quot;, &quot;&quot;) AS 진행내역, map(file.</description>
+    <pubDate>Thu, 25 Jan 2024 01:36:11 GMT</pubDate>
+  </item><item>
+    <title>(2024)소요 비용 및 정기 결재</title>
+    <link>https://quartz.jzhao.xyz/(2024)%EC%86%8C%EC%9A%94-%EB%B9%84%EC%9A%A9-%EB%B0%8F-%EC%A0%95%EA%B8%B0-%EA%B2%B0%EC%9E%AC</link>
+    <guid>https://quartz.jzhao.xyz/(2024)%EC%86%8C%EC%9A%94-%EB%B9%84%EC%9A%A9-%EB%B0%8F-%EC%A0%95%EA%B8%B0-%EA%B2%B0%EC%9E%AC</guid>
+    <description>📗프로젝트 소요 비용 § 📝2024 소요 비용 § TABLE 비용날짜, 비용내용, 비용금액, 비용비고 FROM &quot;1-Allsensing/2024&quot; 📝2024 PCB Artwork &amp; 제작 § TABLE PCB_ARTWORK FROM &quot;1-Allsensing/2024&quot; # 📗2024 정기 결재 비용 확인 § TABLE 비용날짜, 비용내용, 비용금액, 비용비고 FROM &quot;😁(2024)소요 비용 및 정기 결재&quot; 2024-01-11 네이버 웍스 12월 사용료 결재 § [!소요비용] 비용날짜:: 2024-01-11 비용금액:: \61,490 비용내용:: 네이버웍스 12월 사용료 결재 비용비고:: 네이버클라우드 주식회사의 결제 내역 2024-01-11 Freedcamp 정기 결재 취소 § 계정 설정 (freedcamp.</description>
+    <pubDate>Thu, 25 Jan 2024 01:36:11 GMT</pubDate>
+  </item><item>
+    <title>옵시디언 정보</title>
+    <link>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EC%A0%95%EB%B3%B4</link>
+    <guid>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EC%A0%95%EB%B3%B4</guid>
+    <description>문법정리 § Markdown 마크다운 문법의 기본적인 사용 방법 정리 - insideBOX (comeinsidebox.com) 매일 찾아보는 옵시디언 마크다운 문법 정리 | Statistics Playbook 옵시디언 콜아웃 및 인용 블록 (unclesnote.com) Callouts - Obsidian Help 좋은 소프트웨어 엔지니어가 되는 것은 어느때보다 어렵다 - BEMELON Callout 지원리스트 § .</description>
+    <pubDate>Thu, 25 Jan 2024 01:36:11 GMT</pubDate>
+  </item><item>
+    <title>WikipediaTheme</title>
+    <link>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/WikipediaTheme</link>
+    <guid>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/WikipediaTheme</guid>
+    <description> [!infobox|right] 새로운 이름을 정함 § 세부 제목 1 § TypeStatTestTestingTestTesting 세부 제목 2 § TypeStatTestTestingTestTesting [!bug|right] This is a bug callout, but it floats right like an info callout! [!quote|left] This will float to the left.</description>
+    <pubDate>Thu, 25 Jan 2024 01:36:11 GMT</pubDate>
+  </item><item>
+    <title>test-dataview</title>
+    <link>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/test-dataview</link>
+    <guid>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/test-dataview</guid>
+    <description>#dataview GitHub - blacksmithgu/obsidian-dataview: A high-performance data index and query language over Markdown files, for https://obsidian.md/. https://obsidian.</description>
+    <pubDate>Thu, 25 Jan 2024 01:36:11 GMT</pubDate>
+  </item><item>
+    <title>TASKVIEW 테스트</title>
+    <link>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/TASKVIEW-%ED%85%8C%EC%8A%A4%ED%8A%B8</link>
+    <guid>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/TASKVIEW-%ED%85%8C%EC%8A%A4%ED%8A%B8</guid>
+    <description>Obsidian 옵시디언, 원하는 정보만 쏙쏙 골라주는 Dataview - (3) (tistory.com) Structure of a Query - Dataview (blacksmithgu.github.io) Lists all pages that have a metadata field due and where due is before today § LIST WHERE due AND due &lt; date(today) Lists the 10 most recently created pages in your vault that have the tag#status/open § LIST FROM &quot;1-Allsensing&quot; SORT file.</description>
+    <pubDate>Thu, 25 Jan 2024 01:36:11 GMT</pubDate>
+  </item><item>
+    <title>Because I could not stop for Death</title>
+    <link>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/tasks</link>
+    <guid>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/tasks</guid>
+    <description>Example:: 6 Example:: 2.4 Example:: -80 MVH3204(온습도센서모듈) § path includes MVH3204(온습도센서) TABLE file.tasks.text WHERE file.tasks Task all(전체) § Task not done(미 완료) § not done Task done(완료) § done Open tasks from Important Project § not done path includes 개발자료정리양식 Due befor 6th of December § not done due befor 2023-12-26 short mode Not match § WHERE !completed AND contains(text, &quot;#todo&quot;) SORT text ASC.</description>
+    <pubDate>Thu, 25 Jan 2024 01:36:11 GMT</pubDate>
+  </item><item>
+    <title>Tasks Plugin - Review and check your Statuses 2024-01-11 18-11-16</title>
+    <link>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/Tasks-Plugin---Review-and-check-your-Statuses-2024-01-11-18-11-16</link>
+    <guid>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/Tasks-Plugin---Review-and-check-your-Statuses-2024-01-11-18-11-16</guid>
+    <description>Review and check your Statuses § About this file § This file was created by the Obsidian Tasks plugin (version 5.6.0) to help visualise the task statuses in this vault.</description>
+    <pubDate>Thu, 25 Jan 2024 01:36:11 GMT</pubDate>
+  </item><item>
+    <title>task&amp;table</title>
+    <link>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/task&table</link>
+    <guid>https://quartz.jzhao.xyz/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%82%AC%EC%9A%A9%EC%A0%95%EB%B3%B4/task&table</guid>
+    <description>Adding Metadata - Dataview (blacksmithgu.github.io) How do I add fields? § Frontmatter § LIST WHERE thoughts.rating = 8 Inline Fields § path includes MVH3204(온습도센서) Dataview task and project examples - Share &amp; showcase - Obsidian Forum 옵시디언 사용기8 - 데이터뷰(Dataview) (kexplain.</description>
+    <pubDate>Thu, 25 Jan 2024 01:36:11 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
